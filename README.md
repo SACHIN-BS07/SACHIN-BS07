@@ -1,5 +1,5 @@
-<h1> align="left">Hi </h1>
-<h2>👋! My name is SACHIN B S and I'm a AI enthusiast, from Bengaluru</h2>
+<h1 align="left">Hi👋, </h1>
+<h2> My name is SACHIN B S and I'm a AI enthusiast, from India</h2>
 
 ###
 
